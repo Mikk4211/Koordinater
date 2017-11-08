@@ -1,3 +1,8 @@
+/* 
+Lavet af Mikkel Sørensen Datamatiker Uddanelsen 1. Semester EASJ Næstved 
+*/
+
+
 public class Koordinater {
     double x;
     double y;
